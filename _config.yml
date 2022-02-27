@@ -1,3 +1,4 @@
 remote_theme: "dracula/gh-pages"
 
 theme: jekyll-theme-midnight
+theme: dracula/gh-pages
