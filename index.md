@@ -1,19 +1,56 @@
 # Contents
-- [Skills](#skills)
-- [Projects](#projects)
-	- [Meeting Scheduler](#meeting-scheduler)
-	- [BWSI Embedded Security and Hardware Hacking](#bwsi-embedded-security-and-hardware-hacking)
+- (About Me)[#about-me]
+- (Projects)[#projects]
+	- (AI)[#ai]
+		- (HERO Quantization)[#hero-quantization]
+		- (Iterative Quantization)[#iterative-quantization]
+	- (8-bit CPU)[#8-bit-cpu]
+	- (Physics Competition)[#physics-competition]
 
 ---
 
-# Skills
-- Programming Languages: C/C++, Java, Python, Rust <br>
-- Tools: Git, Vim/Neovim, Linux/Mac OS <br>
+# About Me
 
 ---
 
 # Projects
-## [Meeting Scheduler](https://github.com/bloop132435/Spring2021Hackathon "Github Repo")
-A program that takes in your availability for all time slots through a Google Form, then optimizes which times to schedule meetings in<br>
-## [BWSI Embedded Security and Hardware Hacking](https://beaverworks.ll.mit.edu/CMS/bw/BWSI_Course_Embedded_Security_and_Hardware_Hacking "Course Page")
-A course/project to build an encryption/decryption system in an embedded system (TI Tiva-C Launchpad)<br>
+
+---
+
+## AI
+
+My focus within the large field of AI is on the effecient quantization of neural networks. The two specific projects listed here are both mixed precision quantization schemes, meaning that the
+different layers within the networks don't necessarily have the same quantization bit precision
+
+---
+
+### Hessian Quantization
+
+The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptimization)
+[] **TODO**: Write up stuff when approval received
+
+
+
+[^1]: HERO Paper: (https://arxiv.org/abs/2111.11986)[https://arxiv.org/abs/2111.11986]
+
+---
+
+### Iterative Quantization
+
+---
+
+## 8-bit CPU
+
+### Videos
+1. (https://youtu.be/4WzkkjmJwrw)[https://youtu.be/4WzkkjmJwrw]
+2. (https://youtu.be/yc6WBX6zgWk)[https://youtu.be/yc6WBX6zgWk]
+3. (https://youtu.be/4z909RtefZI)[https://youtu.be/4z909RtefZI]
+
+---
+
+---
+
+## Physics Competition
+
+---
+
