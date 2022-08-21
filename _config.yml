@@ -1,6 +1,6 @@
 remote_theme: "dracula/gh-pages"
 
-theme: dracula/gh-pages
+theme: jekyll-theme-midnight
 
 title: "Geoffrey Qian"
 description: "Geoffrey Qian's Personal Website"
