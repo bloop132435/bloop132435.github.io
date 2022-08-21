@@ -3,6 +3,9 @@
 - [Projects](#projects)
 	- [Meeting Scheduler](#meeting-scheduler)
 	- [BWSI Embedded Security and Hardware Hacking](#bwsi-embedded-security-and-hardware-hacking)
+
+---
+
 # Skills
 - Programming Languages: C/C++, Java, Python, Rust <br>
 - Tools: Git, Vim/Neovim, Linux/Mac OS <br>
