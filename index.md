@@ -1,7 +1,7 @@
 # Geoffrey Qian
 ## Skills
-- Programming Languages: C/C++, Java, Python, Rust
-- Tools: Git, Vim/Neovim, Linux/Mac OS
+- Programming Languages: C/C++, Java, Python, Rust <br>
+- Tools: Git, Vim/Neovim, Linux/Mac OS <br>
 ## Projects
 ### [Meeting Scheduler](https://github.com/bloop132435/Spring2021Hackathon)
 A program that takes in your availability for all time slots through a Google Form, then optimizes which times to schedule meetings in<br>
