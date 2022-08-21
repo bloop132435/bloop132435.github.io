@@ -1,11 +1,11 @@
 # Contents
-- (About Me)[#about-me]
-- (Projects)[#projects]
-	- (AI)[#ai]
-		- (HERO Quantization)[#hero-quantization]
-		- (Iterative Quantization)[#iterative-quantization]
-	- (8-bit CPU)[#8-bit-cpu]
-	- (Physics Competition)[#physics-competition]
+- [About Me](#about-me)
+- [Projects](#projects)
+	- [AI](#ai)
+		- [HERO Quantization](#hero-quantization)
+		- [Iterative Quantization](#iterative-quantization)
+	- [8-bit CPU](#8-bit-cpu)
+	- [Physics Competition](#physics-competition)
 
 ---
 
@@ -31,7 +31,7 @@ The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptim
 
 
 
-[^1]: HERO Paper: (https://arxiv.org/abs/2111.11986)[https://arxiv.org/abs/2111.11986]
+[^1]: HERO Paper: [https://arxiv.org/abs/2111.11986](https://arxiv.org/abs/2111.11986)
 
 ---
 
@@ -42,9 +42,9 @@ The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptim
 ## 8-bit CPU
 
 ### Videos
-1. (https://youtu.be/4WzkkjmJwrw)[https://youtu.be/4WzkkjmJwrw]
-2. (https://youtu.be/yc6WBX6zgWk)[https://youtu.be/yc6WBX6zgWk]
-3. (https://youtu.be/4z909RtefZI)[https://youtu.be/4z909RtefZI]
+1. [https://youtu.be/4WzkkjmJwrw](https://youtu.be/4WzkkjmJwrw)
+2. [https://youtu.be/yc6WBX6zgWk](https://youtu.be/yc6WBX6zgWk)
+3. [https://youtu.be/4z909RtefZI](https://youtu.be/4z909RtefZI)
 
 ---
 
