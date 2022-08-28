@@ -41,6 +41,7 @@ The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptim
 ## 8-bit CPU
 
 ![demo](./computer.mp4)
+https://github.com/bloop132435/bloop132435.github.io/blob/main/computer.mp4
 ### Videos
 1. [https://youtu.be/4WzkkjmJwrw](https://youtu.be/4WzkkjmJwrw)
 2. [https://youtu.be/yc6WBX6zgWk](https://youtu.be/yc6WBX6zgWk)
