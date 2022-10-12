@@ -43,7 +43,7 @@ The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptim
 This project involved building a mostly-functioning CPU from scratch, using only logic circuits offered in TI's 74-series of integrated circuits. Right now each of the components are working (ALU, RAM, Registers A/B, and the Decimal Display).
 I am currently working on building the control logic, the part of the computer that will read and process instructions and command each part to do the appropriate operations. So far, I have finished the Ring Counter and the Program Counter portion of this final leg of the computer.
 ![demo](./SCR-20220827-s1t.jpeg)
-<!-- ![gif](./ezgif.com-gif-maker_skipframe.gif) -->
+![gif](./ezgif.com-gif-maker_skipframe.gif)
 ### Videos
 1. [https://youtu.be/4WzkkjmJwrw](https://youtu.be/4WzkkjmJwrw)
 2. [https://youtu.be/yc6WBX6zgWk](https://youtu.be/yc6WBX6zgWk)
