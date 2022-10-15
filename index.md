@@ -57,8 +57,9 @@ I am currently working on building the control logic, the part of the computer t
 ![gif](./ezgif.com-gif-maker_skipframe.gif)
 ### Videos
 1. [ALU Explanation](https://youtu.be/4WzkkjmJwrw)
-2. [Decimal Display and Implementing Truth Table using EEPROM](https://youtu.be/yc6WBX6zgWk)
-3. [Ring Counter Explanation](https://youtu.be/4z909RtefZI)
+2. [Demonstration of Debugging with an Oscilloscope](https://www.youtube.com/watch?v=CqOThA3p5UY)
+3. [Decimal Display and Implementing Truth Table using EEPROM](https://youtu.be/yc6WBX6zgWk)
+4. [Ring Counter Explanation](https://youtu.be/4z909RtefZI)
 
 ---
 
