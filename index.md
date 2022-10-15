@@ -27,7 +27,10 @@ different layers within the networks don't necessarily have the same quantizatio
 
 ### Hessian Quantization
 
-The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptimization)
+The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptimization). It uses each layer's Hessian eigenvalue to determine how the bit configuration is formed.
+It provides a 2x performance gain over traditional fixed-precision quantization.
+![performance](./resnet_hero.png)
+Here, the data shows that the HERO-based quantization is significantly more accurate than fixed precision.
 [] **TODO**: Write up stuff when approval received
 
 
