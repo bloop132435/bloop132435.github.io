@@ -25,12 +25,13 @@ different layers within the networks don't necessarily have the same quantizatio
 
 ---
 
-### Hessian Quantization
-
-The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptimization). It uses each layer's Hessian eigenvalue to determine how the bit configuration is formed.
-It provides a 2x performance gain over traditional fixed-precision quantization.
+### HERO-based Quantization
+This method aims to reduce the weight perturbation-induced loss while maintaining low bit-widths.
+<!-- by only giving large bit precisions to layers with a rough loss surface. -->
+It uses each layer's Hessian eigenvalue to determine how the bit configuration is formed, as it represents the smoothness of the loss function.
+It is especially powerful for models trained with HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptimization).
+Below is an example of a 2x performance gain over fixed precision quantization.
 ![performance](./resnet_hero.png)
-Here, the data shows that the HERO-based quantization is significantly more accurate than fixed precision.
 [] **TODO**: Write up stuff when approval received
 
 
@@ -39,7 +40,9 @@ Here, the data shows that the HERO-based quantization is significantly more accu
 ---
 
 ### Iterative Quantization
-This method is based on the intuition of gradient descent. It chooses the
+This method is based on the intuition of gradient descent. It chooses the optimal bit configuration by learning the local optimal choice, and works for pre-trained models of all varieties
+**add gif**
+![iterative performance](./vgg_iter.png)
 
 ---
 
