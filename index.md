@@ -55,6 +55,7 @@ I am preparing a paper which will be published in the IEEE International Symposi
 </figcaption>
 </figure>
 
+---
 ## 8-bit CPU
 
 This project involved building a mostly-functioning CPU from scratch, using only logic circuits offered in TI's 74-series of integrated circuits. Right now each of the components are working (ALU, RAM, Registers A/B, and the Decimal Display).
