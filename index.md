@@ -5,7 +5,7 @@
 		- [HERO Quantization](#hero-quantization)
 		- [Iterative Quantization](#iterative-quantization)
 	- [8-bit CPU](#8-bit-cpu)
-- [USA Physics Olympiad](#usapho)
+- [USA Physics Olympiad (USAPhO)](#usapho)
 
 ---
 
