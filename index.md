@@ -68,6 +68,7 @@ This is my computer in action, counting up by 2.
 # USAPhO
 
 I have made a couple videos about some USAPhO problems. [This one](https://www.youtube.com/watch?v=I8NZ346rRkQ) is about Problem A1 of the [2013 USAPhO Semi-Final Exam](https://www.aapt.org/physicsteam/2014/upload/E3-1-7.pdf).
+![phys](./physics.png)
 
 ---
 
