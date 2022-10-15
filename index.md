@@ -32,7 +32,6 @@ It uses each layer's Hessian eigenvalue to determine how the bit configuration i
 It is especially powerful for models trained with HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptimization).
 Below is an example of a 2x performance gain over fixed precision quantization.
 ![performance](./resnet_hero.png)
-[] **TODO**: Write up stuff when approval received
 
 
 
@@ -43,6 +42,7 @@ Below is an example of a 2x performance gain over fixed precision quantization.
 This method is based on the intuition of gradient descent. It chooses the optimal bit configuration by learning the local optimal choice, and works for pre-trained models of all varieties
 **add gif**
 ![iterative performance](./vgg_iter.png)
+I am preparing a paper which will be published in the IEEE International Symposium on Circuits and Systems (ISCAS).
 
 ---
 
