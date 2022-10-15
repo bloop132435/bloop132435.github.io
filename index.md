@@ -53,7 +53,10 @@ I am preparing a paper about this method which will be published in the IEEE Int
 This project involved building a mostly-functioning CPU from scratch, using only logic circuits offered in TI's 74-series of integrated circuits. Right now each of the components are working (Arithmetic Logic Unit (ALU), RAM, Registers A/B, and the Decimal Display).
 I am currently working on building the control logic, the part of the computer that will read and process instructions and command each part to do the appropriate operations. So far, I have finished the Ring Counter and the Program Counter portion of this final leg of the computer. <br> <br>
 ![threpics](./threepics.png)
-![gif](./ezgif.com-gif-maker_skipframe.gif)<br>
+<!-- ![gif](./ezgif.com-gif-maker_skipframe.gif)<br> -->
+<p align="center">
+  <img src="./movie.gif" />
+</p>
 This is my computer in action, counting up by 2.
 <!-- ![demo](./SCR-20220827-s1t.jpeg) -->
 ### Videos
