@@ -5,12 +5,13 @@
 		- [HERO Quantization](#hero-quantization)
 		- [Iterative Quantization](#iterative-quantization)
 	- [8-bit CPU](#8-bit-cpu)
-	- [Physics Competition](#physics-competition)
+- [USAPhO](#USA-Physics-competition-(usapho))
 
 ---
 
 # About Me
 
+A high school student passionate about pursuing a career in Electrical Engineering or Physics.
 ---
 
 # Projects
@@ -35,6 +36,7 @@ The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptim
 ---
 
 ### Iterative Quantization
+This method is based on the intuition of gradient descent. It chooses the
 
 ---
 
@@ -42,7 +44,7 @@ The method builds off of HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptim
 
 This project involved building a mostly-functioning CPU from scratch, using only logic circuits offered in TI's 74-series of integrated circuits. Right now each of the components are working (ALU, RAM, Registers A/B, and the Decimal Display).
 I am currently working on building the control logic, the part of the computer that will read and process instructions and command each part to do the appropriate operations. So far, I have finished the Ring Counter and the Program Counter portion of this final leg of the computer.
-![demo](./SCR-20220827-s1t.jpeg)
+<!-- ![demo](./SCR-20220827-s1t.jpeg) -->
 ![gif](./ezgif.com-gif-maker_skipframe.gif)
 ### Videos
 1. [https://youtu.be/4WzkkjmJwrw](https://youtu.be/4WzkkjmJwrw)
@@ -53,7 +55,7 @@ I am currently working on building the control logic, the part of the computer t
 
 ---
 
-## Physics Competition
+# USA Physics Olympiad (USAPhO)
 
 ---
 
