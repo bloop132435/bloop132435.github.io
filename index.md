@@ -30,7 +30,7 @@ This method aims to reduce the weight perturbation-induced loss while maintainin
 <!-- by only giving large bit precisions to layers with a rough loss surface. -->
 It uses each layer's Hessian eigenvalue to determine how the bit configuration is formed, as it represents the smoothness of the loss function.
 It is especially powerful for models trained with HERO[^1] (**H**essian-**e**nhanced **R**obust **O**ptimization).
-Fig.1 is an example of a 2x performance gain over fixed precision quantization.
+Fig.3 is an example of a 2x performance gain over fixed precision quantization.
 
 
 
@@ -40,21 +40,11 @@ Fig.1 is an example of a 2x performance gain over fixed precision quantization.
 ### Iterative Quantization
 This method is based on the intuition of gradient descent. It chooses the optimal bit configuration by learning the local optimal choice, and works for pre-trained models of all varieties
 **add gif**
-Iterative Quantization performs well on a variety of models, even ones that weren't trained using HERO, as shown in Fig.2.
+Iterative Quantization performs well on a variety of models, even ones that weren't trained using HERO, as shown in Fig.4.
 I am preparing a paper which will be published in the IEEE International Symposium on Circuits and Systems (ISCAS).
 
 ---
-<figure>
-<img src="./resnet_hero.png">
-<figcaption align = "center"><b>Fig.1 HERO-based Quantization performance vs Fixed precision Quantization performance</b>
-</figcaption>
-</figure>
-<figure>
-<img src="./vgg_iter.png">
-<figcaption align = "center"><b>Fig.2 Iterative Quantization performance vs HERO-based and Fixed precision Quantization</b>
-</figcaption>
-</figure>
-
+![fourpic](./FourPlotProjectIllustration.JPG)
 ---
 ## 8-bit CPU
 
