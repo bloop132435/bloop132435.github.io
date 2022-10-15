@@ -39,10 +39,10 @@ Fig.3 is an example of a 2x performance gain over fixed precision quantization.
 ---
 
 ### Iterative Quantization
-This method is based on the intuition of gradient descent. It chooses the optimal bit configuration by learning the local optimal choice, and works for pre-trained models of all varieties. The gif below shows the evolution of iterative quantization. <br>
+This method is based on the intuition of gradient descent. It chooses the optimal bit configuration by learning the local optimal choice, and works for pre-trained models of all varieties. The gif below and Fig.2 show the evolution of iterative quantization. <br>
 ![gif](./movie.gif) <br>
 Iterative Quantization performs well on a variety of models, even ones that weren't trained using HERO, as shown in Fig.4.
-I am preparing a paper which will be published in the IEEE International Symposium on Circuits and Systems (ISCAS).
+I am preparing a paper about this method which will be published in the IEEE International Symposium on Circuits and Systems (ISCAS).
 
 
 ---
