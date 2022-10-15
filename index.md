@@ -49,14 +49,14 @@ I am preparing a paper which will be published in the IEEE International Symposi
 ---
 ## 8-bit CPU
 
-This project involved building a mostly-functioning CPU from scratch, using only logic circuits offered in TI's 74-series of integrated circuits. Right now each of the components are working (ALU, RAM, Registers A/B, and the Decimal Display).
+This project involved building a mostly-functioning CPU from scratch, using only logic circuits offered in TI's 74-series of integrated circuits. Right now each of the components are working (Arithmetic Logic Unit (ALU), RAM, Registers A/B, and the Decimal Display).
 I am currently working on building the control logic, the part of the computer that will read and process instructions and command each part to do the appropriate operations. So far, I have finished the Ring Counter and the Program Counter portion of this final leg of the computer. <br> <br>
 <!-- ![demo](./SCR-20220827-s1t.jpeg) -->
 ![gif](./ezgif.com-gif-maker_skipframe.gif)
 ### Videos
-1. [https://youtu.be/4WzkkjmJwrw](https://youtu.be/4WzkkjmJwrw)
-2. [https://youtu.be/yc6WBX6zgWk](https://youtu.be/yc6WBX6zgWk)
-3. [https://youtu.be/4z909RtefZI](https://youtu.be/4z909RtefZI)
+1. [ALU Explanation](https://youtu.be/4WzkkjmJwrw)
+2. [Decimal Display and Implementing Truth Table using EEPROM](https://youtu.be/yc6WBX6zgWk)
+3. [Ring Counter Explanation](https://youtu.be/4z909RtefZI)
 
 ---
 
