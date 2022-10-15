@@ -5,7 +5,7 @@
 		- [HERO Quantization](#hero-quantization)
 		- [Iterative Quantization](#iterative-quantization)
 	- [8-bit CPU](#8-bit-cpu)
-- [USAPhO](#USA-Physics-competition-(usapho))
+- [USA Physics Olympiad](#usapho)
 
 ---
 
@@ -62,7 +62,9 @@ I am currently working on building the control logic, the part of the computer t
 
 ---
 
-# USA Physics Olympiad (USAPhO)
+# USAPhO
+
+I have made a couple videos about some USAPhO
 
 ---
 
