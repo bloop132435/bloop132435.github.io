@@ -44,8 +44,10 @@ This method is based on the intuition of gradient descent. It chooses the optima
 Iterative Quantization performs well on a variety of models, even ones that weren't trained using HERO, as shown in Fig.4.
 I am preparing a paper which will be published in the IEEE International Symposium on Circuits and Systems (ISCAS).
 
+
 ---
 ![fourpic](./FourPlotProjectIllustration.JPG)
+
 ---
 ## 8-bit CPU
 
@@ -60,7 +62,6 @@ I am currently working on building the control logic, the part of the computer t
 
 ---
 
----
 
 # USAPhO
 
