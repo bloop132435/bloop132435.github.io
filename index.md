@@ -10,9 +10,8 @@
 
 # About Me
 A high school student passionate about pursuing a career in Electrical Engineering or Physics.
-![pfp](./GQ_Soldering_IMG_8379.jpg)
 <p align="center">
-  <img src="./ezgif.com-gif-maker_skipframe.gif" width="500"/>
+  <img src="./GQ_Soldering_IMG_8379.jpg" width="500"/>
 </p>
 
 
