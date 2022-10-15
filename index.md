@@ -1,4 +1,3 @@
-# Contents
 - [About Me](#about-me)
 - [Projects](#projects)
 	- [AI](#ai)
@@ -10,7 +9,7 @@
 ---
 
 # About Me
-
+![pfp](./GQ_Soldering_IMG_8379.jpg)
 A high school student passionate about pursuing a career in Electrical Engineering or Physics.
 
 ---
