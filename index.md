@@ -12,6 +12,7 @@
 # About Me
 
 A high school student passionate about pursuing a career in Electrical Engineering or Physics.
+
 ---
 
 # Projects
