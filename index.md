@@ -9,6 +9,7 @@
 ---
 
 # About Me
+[Back to top](#) <br>
 A high school student passionate about pursuing a career in Electrical Engineering or Physics.
 <p align="center">
   <img src="./GQ_Soldering_IMG_8379.jpg" width="500"/>
@@ -22,7 +23,7 @@ A high school student passionate about pursuing a career in Electrical Engineeri
 ---
 
 ## AI
-
+[Back to top](#)<br>
 My focus within the large field of AI is on the effecient quantization of neural networks. The two specific projects listed here are both mixed precision quantization schemes, meaning that the
 different layers within the networks don't necessarily have the same quantization bit precision
 
@@ -60,6 +61,7 @@ I am preparing a paper about this method which will be published in the IEEE Int
 ---
 ## 8-bit CPU
 
+[Back to top](#)<br>
 This project involved building a mostly-functioning CPU from scratch, using only logic circuits offered in TI's 74-series of integrated circuits. Right now each of the components are working (Arithmetic Logic Unit (ALU), RAM, Registers A/B, and the Decimal Display).
 I am currently working on building the control logic, the part of the computer that will read and process instructions and command each part to do the appropriate operations. So far, I have finished the Ring Counter and the Program Counter portion of this final leg of the computer. <br> <br>
 ![threpics](./threepics.png)
@@ -78,6 +80,7 @@ Below is my computer in action, counting up by 2.
 
 # USAPhO
 
+[Back to top](#)<br>
 I have made a couple videos about some USAPhO problems. [This one](https://www.youtube.com/watch?v=I8NZ346rRkQ) is about Problem A1 of the [2013 USAPhO Semi-Final Exam](https://www.aapt.org/physicsteam/2014/upload/E3-1-7.pdf).
 <p align="center">
   <img src="./physics.png" />
