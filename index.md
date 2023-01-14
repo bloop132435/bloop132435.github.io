@@ -56,11 +56,11 @@ I am preparing a paper about this method which will be published in the IEEE Int
   <img src="./FourPlotProjectIllustration.JPG" />
 </p>
 
-### Paper
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://drive.google.com/file/d/19IFQgGhKFh1XMOsL2GOOchiFfUBrrfb3/view" width="500" height="375">
-
----
+<!-- ### Paper -->
+<!-- <embed src="https://drive.google.com/viewerng/ -->
+<!-- viewer?embedded=true&url=https://drive.google.com/file/d/19IFQgGhKFh1XMOsL2GOOchiFfUBrrfb3/view" width="500" height="375"> -->
+<!-- This is my paper that I submitted to the 2023 IEEE International Symposium on Circuits and Systems (ISCAS) https://drive.google.com/file/d/19IFQgGhKFh1XMOsL2GOOchiFfUBrrfb3/view -->
+<!-- --- -->
 ## 8-bit CPU
 
 [Back to top](#)<br>
