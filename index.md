@@ -56,7 +56,9 @@ I am preparing a paper about this method which will be published in the IEEE Int
   <img src="./FourPlotProjectIllustration.JPG" />
 </p>
 
-
+### Paper
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://drive.google.com/file/d/19IFQgGhKFh1XMOsL2GOOchiFfUBrrfb3/view" width="500" height="375">
 
 ---
 ## 8-bit CPU
