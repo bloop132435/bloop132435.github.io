@@ -1,4 +1,4 @@
-[Website](https://bloop132435.github.io)
+[Please Click Here To Go The Website](https://bloop132435.github.io)
 - [About Me](#about-me)
 - [Projects](#projects)
 	- [AI](#ai)
